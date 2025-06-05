@@ -527,6 +527,8 @@ namespace Walnut {
 		//io.ConfigViewportsNoAutoMerge = true;
 		//io.ConfigViewportsNoTaskBarIcon = true;
 
+		io.ConfigDockingWithShift = true;
+
 		// Theme colors
 		UI::SetHazelTheme();
 
